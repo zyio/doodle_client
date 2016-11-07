@@ -15,6 +15,15 @@ And then execute:
 Or install it yourself as:
 
     $ gem install doodle_client
+    
+### Troubleshooting
+
+Needs nokogiri, so you'll probably hit at least one dependency issue if you don't have it installed already.
+
+Try these 'one size fits all' approaches if you're stuck
+
+*Ubuntu/Debian* - `apt-get install build-essential patch ruby-dev zlib1g-dev liblzma-dev`
+*CentOS/Redhat* - `yum install gcc ruby-devel zlib-devel`
 
 ## Usage
 
