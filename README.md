@@ -22,8 +22,9 @@ Needs nokogiri, so you'll probably hit at least one dependency issue if you don'
 
 Try these 'one size fits all' approaches if you're stuck
 
-*Ubuntu/Debian* - `apt-get install build-essential patch ruby-dev zlib1g-dev liblzma-dev`
-*CentOS/Redhat* - `yum install gcc ruby-devel zlib-devel`
+**Ubuntu/Debian** - `apt-get install build-essential patch ruby-dev zlib1g-dev liblzma-dev`
+
+**CentOS/Redhat** - `yum install gcc ruby-devel zlib-devel`
 
 ## Usage
 
